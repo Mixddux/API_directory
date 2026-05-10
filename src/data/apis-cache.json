@@ -1,8 +1,8 @@
 {
   "meta": {
-    "totalAPIs": 1461,
+    "totalAPIs": 1467,
     "totalCategories": 51,
-    "lastUpdated": "2026-05-09T05:51:32.143Z"
+    "lastUpdated": "2026-05-10T06:15:58.864Z"
   },
   "categories": [
     {
@@ -2749,6 +2749,15 @@
           "slug": "development-brainshop-ai"
         },
         {
+          "name": "BrewPage",
+          "link": "https://brewpage.app",
+          "description": "Free hosting for HTML, JSON, key-value, files, multi-file sites with short URLs and TTL retention",
+          "auth": "No",
+          "https": true,
+          "cors": "no",
+          "slug": "development-brewpage"
+        },
+        {
           "name": "Browshot",
           "link": "https://browshot.com/api/documentation",
           "description": "Easily make screenshots of web pages in any screen size, as any device",
@@ -3676,6 +3685,15 @@
           "slug": "development-suprsonic"
         },
         {
+          "name": "Thunderbit",
+          "link": "https://thunderbit.com/docs/introduction",
+          "description": "Extract web pages as Markdown or structured data for AI apps",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "unknown",
+          "slug": "development-thunderbit"
+        },
+        {
           "name": "Tyk",
           "link": "https://tyk.io/open-source/",
           "description": "Api and service management platform",
@@ -4066,6 +4084,15 @@
           "slug": "documents-productivity-smart-image-enhancement-api"
         },
         {
+          "name": "staffSign",
+          "link": "https://staffsign.de/docs",
+          "description": "Digital employment contract API with QES/eIDAS support for HR and staffing",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "yes",
+          "slug": "documents-productivity-staffsign"
+        },
+        {
           "name": "Vector Express v2.0",
           "link": "https://vector.express",
           "description": "Free vector file converting API",
@@ -4276,6 +4303,15 @@
       "slug": "entertainment",
       "apis": [
         {
+          "name": "Anycrap",
+          "link": "https://anycrap.shop/developers",
+          "description": "35,000+ absurdist AI-generated product concepts with names, descriptions, and images",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "yes",
+          "slug": "entertainment-anycrap"
+        },
+        {
           "name": "chucknorris.io",
           "link": "https://api.chucknorris.io",
           "description": "JSON API for hand curated Chuck Norris jokes",
@@ -4328,6 +4364,15 @@
           "https": true,
           "cors": "unknown",
           "slug": "entertainment-meme-maker"
+        },
+        {
+          "name": "Memesio",
+          "link": "https://memesio.com/developers/api",
+          "description": "Meme creation API with templates, editable captions and hosted share links",
+          "auth": "No",
+          "https": true,
+          "cors": "no",
+          "slug": "entertainment-memesio"
         },
         {
           "name": "NaMoMemes",
@@ -7169,6 +7214,15 @@
           "https": true,
           "cors": "unknown",
           "slug": "government-istanbul-i-bb-open-data"
+        },
+        {
+          "name": "LocalGov.jp",
+          "link": "https://localgov.jp/",
+          "description": "Japan grants and subsidies (central J-Grants + 1,916 municipalities)",
+          "auth": "No",
+          "https": true,
+          "cors": "yes",
+          "slug": "government-localgov-jp"
         },
         {
           "name": "National Park Service, US",
