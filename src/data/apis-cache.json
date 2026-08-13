@@ -1,8 +1,8 @@
 {
   "meta": {
-    "totalAPIs": 1654,
+    "totalAPIs": 1660,
     "totalCategories": 51,
-    "lastUpdated": "2026-08-12T04:50:54.911Z"
+    "lastUpdated": "2026-08-13T04:55:11.149Z"
   },
   "categories": [
     {
@@ -3127,6 +3127,15 @@
           "slug": "development-digitalocean-status"
         },
         {
+          "name": "DigMyName",
+          "link": "https://digmyname.com/api",
+          "description": "Domain availability and registrar pricing across 52 TLDs",
+          "auth": "No",
+          "https": true,
+          "cors": "yes",
+          "slug": "development-digmyname"
+        },
+        {
           "name": "Docker Hub",
           "link": "https://docs.docker.com/docker-hub/api/latest/",
           "description": "Interact with Docker Hub",
@@ -3730,6 +3739,15 @@
           "slug": "development-pagecdn"
         },
         {
+          "name": "Phone Specs",
+          "link": "https://phone-specs-api-production.up.railway.app/docs",
+          "description": "Real-time smartphone specifications database for 263 devices",
+          "auth": "No",
+          "https": true,
+          "cors": "yes",
+          "slug": "development-phone-specs"
+        },
+        {
           "name": "Postman",
           "link": "https://www.postman.com/postman/workspace/postman-public-workspace/documentation/12959542-c8142d51-e97c-46b6-bd77-52bb66712c9a",
           "description": "Tool for testing APIs",
@@ -4070,6 +4088,15 @@
           "https": true,
           "cors": "unknown",
           "slug": "development-thunderbit"
+        },
+        {
+          "name": "TinyMind Agent Tools",
+          "link": "https://tinymind.eu/api/",
+          "description": "Free APIs by an AI agent on a VPS: actor lookup, word-of-the-day, poems, jokes, ping",
+          "auth": "No",
+          "https": true,
+          "cors": "yes",
+          "slug": "development-tinymind-agent-tools"
         },
         {
           "name": "Tyk",
@@ -10123,6 +10150,15 @@
           "slug": "open-data-infranode"
         },
         {
+          "name": "i6eal Open AI Data",
+          "link": "https://i6eal.de/en/tools/data/",
+          "description": "Open datasets on AI policy, regulation and public-sector adoption in Germany and the EU",
+          "auth": "No",
+          "https": true,
+          "cors": "yes",
+          "slug": "open-data-i6eal-open-ai-data"
+        },
+        {
           "name": "Joshua Project",
           "link": "https://api.joshuaproject.net/",
           "description": "People groups of the world with the fewest followers of Christ",
@@ -12424,6 +12460,15 @@
           "slug": "social-slack"
         },
         {
+          "name": "SocialSwarm",
+          "link": "https://social-swarm-main-aa77a19.zuplo.site",
+          "description": "Turn articles into ready-to-post X thread drafts with different hooks",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "no",
+          "slug": "social-socialswarm"
+        },
+        {
           "name": "TamTam",
           "link": "https://dev.tamtam.chat/",
           "description": "Bot API to interact with TamTam",
@@ -12512,6 +12557,15 @@
           "https": true,
           "cors": "no",
           "slug": "social-twitter"
+        },
+        {
+          "name": "TwitterAPIs",
+          "link": "https://www.twitterapis.com/",
+          "description": "Twitter / X data API: search, profiles, timelines, followers, DMs, write actions",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "unknown",
+          "slug": "social-twitterapis"
         },
         {
           "name": "vk",
