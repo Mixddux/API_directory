@@ -1,8 +1,8 @@
 {
   "meta": {
-    "totalAPIs": 1678,
+    "totalAPIs": 1682,
     "totalCategories": 51,
-    "lastUpdated": "2026-08-17T03:53:44.886Z"
+    "lastUpdated": "2026-08-18T03:48:53.916Z"
   },
   "categories": [
     {
@@ -5128,6 +5128,15 @@
           "slug": "environment-iqair"
         },
         {
+          "name": "kanari",
+          "link": "https://kanari.io/en/api",
+          "description": "Real-time worldwide wildfire detections, water bomber tracking and open fire archive",
+          "auth": "No",
+          "https": true,
+          "cors": "yes",
+          "slug": "environment-kanari"
+        },
+        {
           "name": "Luchtmeetnet",
           "link": "https://api-docs.luchtmeetnet.nl/",
           "description": "Predicted and actual air quality components for The Netherlands (RIVM)",
@@ -6743,6 +6752,15 @@
           "https": true,
           "cors": "unknown",
           "slug": "games-comics-rawg-io"
+        },
+        {
+          "name": "Rblxdb",
+          "link": "https://rblxdb.com/developers",
+          "description": "Verified Roblox music codes and decal IDs with live working status",
+          "auth": "No",
+          "https": true,
+          "cors": "yes",
+          "slug": "games-comics-rblxdb"
         },
         {
           "name": "Rick and Morty",
@@ -9365,6 +9383,15 @@
           "https": true,
           "cors": "unknown",
           "slug": "machine-learning-goldbean"
+        },
+        {
+          "name": "Google Gemini",
+          "link": "https://ai.google.dev/gemini-api/docs",
+          "description": "Multimodal generative AI for text, vision, and code generation",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "unknown",
+          "slug": "machine-learning-google-gemini"
         },
         {
           "name": "Groq",
@@ -12245,6 +12272,15 @@
           "https": true,
           "cors": "unknown",
           "slug": "shopping-shopee"
+        },
+        {
+          "name": "Sparepilot",
+          "link": "https://sparepilot.com/developers",
+          "description": "Spare parts catalog, OEM cross-references & price comparison for garden power equipment",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "unknown",
+          "slug": "shopping-sparepilot"
         },
         {
           "name": "Tokopedia",
