@@ -1,8 +1,8 @@
 {
   "meta": {
-    "totalAPIs": 1695,
+    "totalAPIs": 1706,
     "totalCategories": 51,
-    "lastUpdated": "2026-08-26T03:56:12.097Z"
+    "lastUpdated": "2026-08-27T13:59:13.931Z"
   },
   "categories": [
     {
@@ -2092,6 +2092,15 @@
           "slug": "cryptocurrency-brave-newcoin"
         },
         {
+          "name": "BTCGlobe",
+          "link": "https://btcglobe.live/join#makers",
+          "description": "Bitcoin height, fees, mempool and peer data served live from two self-hosted nodes",
+          "auth": "No",
+          "https": true,
+          "cors": "yes",
+          "slug": "cryptocurrency-btcglobe"
+        },
+        {
           "name": "btcnode.uk",
           "link": "https://btcnode.uk",
           "description": "Bitcoin blockchain data, fees, mempool, SEC insider trades, Reddit sentiment. x402 micropayments for paid endpoints.",
@@ -2681,6 +2690,15 @@
           "https": true,
           "cors": "yes",
           "slug": "currency-exchange-currency-api"
+        },
+        {
+          "name": "CurrencyBeacon",
+          "link": "https://currencybeacon.com/",
+          "description": "Real-time and historical currency exchange rates with free tier",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "yes",
+          "slug": "currency-exchange-currencybeacon"
         },
         {
           "name": "CurrencyFreaks",
@@ -4909,6 +4927,15 @@
           "slug": "email-sendinblue"
         },
         {
+          "name": "SMTPfast",
+          "link": "https://smtpfa.st/docs",
+          "description": "Send transactional email, manage contacts and broadcasts, free 3,000 emails/month",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "yes",
+          "slug": "email-smtpfast"
+        },
+        {
           "name": "uchecker",
           "link": "https://api.uchecker.net/docs",
           "description": "Bulk email verification with full SMTP server responses",
@@ -5455,6 +5482,15 @@
           "slug": "finance-edgrapi"
         },
         {
+          "name": "EOD Historical Data",
+          "link": "https://eodhd.com/",
+          "description": "Real-time and historical stock market data with 150+ exchanges",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "yes",
+          "slug": "finance-eod-historical-data"
+        },
+        {
           "name": "Fed Treasury",
           "link": "https://fiscaldata.treasury.gov/api-documentation/",
           "description": "U.S. Department of the Treasury Data",
@@ -5606,6 +5642,15 @@
           "https": true,
           "cors": "unknown",
           "slug": "finance-klarna"
+        },
+        {
+          "name": "LiquiLens",
+          "link": "https://liquilens.in/developers/",
+          "description": "Public-record bank and lender failure-risk evidence",
+          "auth": "No",
+          "https": true,
+          "cors": "yes",
+          "slug": "finance-liquilens"
         },
         {
           "name": "MercadoPago",
@@ -5768,6 +5813,15 @@
           "https": true,
           "cors": "unknown",
           "slug": "finance-tax-data"
+        },
+        {
+          "name": "TickerLayer",
+          "link": "https://tickerlayer.com",
+          "description": "Real-time and historical market data for stocks, forex, crypto and more",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "unknown",
+          "slug": "finance-tickerlayer"
         },
         {
           "name": "Top 5 Stocks",
@@ -11587,6 +11641,15 @@
           "slug": "science-math-nasa"
         },
         {
+          "name": "NASA InSight",
+          "link": "https://api.nasa.gov/",
+          "description": "Mars weather data from InSight lander",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "yes",
+          "slug": "science-math-nasa-insight"
+        },
+        {
           "name": "NASA ADS",
           "link": "https://ui.adsabs.harvard.edu/help/api/api-docs.html",
           "description": "NASA Astrophysics Data System",
@@ -12712,6 +12775,15 @@
           "slug": "social-slack"
         },
         {
+          "name": "SocialCrawl",
+          "link": "https://www.socialcrawl.dev/docs",
+          "description": "Social and commerce data from 50+ platforms in one JSON schema",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "yes",
+          "slug": "social-socialcrawl"
+        },
+        {
           "name": "SocialSwarm",
           "link": "https://social-swarm-main-aa77a19.zuplo.site",
           "description": "Turn articles into ready-to-post X thread drafts with different hooks",
@@ -12852,6 +12924,15 @@
       "name": "Sports & Fitness",
       "slug": "sports-fitness",
       "apis": [
+        {
+          "name": "5DollarFootball",
+          "link": "https://5dollarfootballapi.com/",
+          "description": "Football fixtures, results, standings and historical odds with corner and card lines",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "yes",
+          "slug": "sports-fitness-5dollarfootball"
+        },
         {
           "name": "API-FOOTBALL",
           "link": "https://www.api-football.com/documentation-v3",
@@ -14947,6 +15028,15 @@
           "slug": "video-json2video"
         },
         {
+          "name": "KinoPipe",
+          "link": "https://kinopipe.com/docs",
+          "description": "Typed hosted video editing operations for agents and automation",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "no",
+          "slug": "video-kinopipe"
+        },
+        {
           "name": "Lucifer Quotes",
           "link": "https://github.com/shadowoff09/lucifer-quotes",
           "description": "Returns Lucifer quotes",
@@ -15410,6 +15500,15 @@
           "https": true,
           "cors": "yes",
           "slug": "weather-open-meteo"
+        },
+        {
+          "name": "Open-Meteo Ensemble",
+          "link": "https://open-meteo.com/en/docs/ensemble-api",
+          "description": "Weather ensemble forecasts from multiple models",
+          "auth": "No",
+          "https": true,
+          "cors": "yes",
+          "slug": "weather-open-meteo-ensemble"
         },
         {
           "name": "openSenseMap",
