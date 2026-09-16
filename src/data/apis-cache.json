@@ -1,8 +1,8 @@
 {
   "meta": {
-    "totalAPIs": 1814,
+    "totalAPIs": 1815,
     "totalCategories": 51,
-    "lastUpdated": "2026-09-15T08:31:22.714Z"
+    "lastUpdated": "2026-09-16T08:25:17.362Z"
   },
   "categories": [
     {
@@ -14003,6 +14003,15 @@
           "https": true,
           "cors": "yes",
           "slug": "sports-fitness-padel-snipe"
+        },
+        {
+          "name": "Parlay",
+          "link": "https://parlay-api.com/docs",
+          "description": "Real-time sports odds and player props from 45+ sportsbooks and sources across 90+ sports",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "yes",
+          "slug": "sports-fitness-parlay"
         },
         {
           "name": "PlayerElo",
