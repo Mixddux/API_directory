@@ -1,8 +1,8 @@
 {
   "meta": {
-    "totalAPIs": 1907,
+    "totalAPIs": 1913,
     "totalCategories": 51,
-    "lastUpdated": "2026-09-25T08:39:53.872Z"
+    "lastUpdated": "2026-09-26T08:26:48.751Z"
   },
   "categories": [
     {
@@ -3694,6 +3694,15 @@
           "slug": "development-google-keep"
         },
         {
+          "name": "Google PageSpeed Insights",
+          "link": "https://developers.google.com/speed/docs/insights/v5/get-started",
+          "description": "Website performance and Lighthouse audit scores",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "yes",
+          "slug": "development-google-pagespeed-insights"
+        },
+        {
           "name": "Google Sheets",
           "link": "https://developers.google.com/sheets/api/reference/rest",
           "description": "API to read, write, and format Google Sheets data",
@@ -4621,6 +4630,15 @@
           "slug": "development-siteintel"
         },
         {
+          "name": "SnoopScan",
+          "link": "https://snoopscan.com/docs",
+          "description": "Scrape, crawl, map and search the web as clean markdown or JSON, with a free monthly tier",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "unknown",
+          "slug": "development-snoopscan"
+        },
+        {
           "name": "Sonar",
           "link": "https://github.com/Cgboal/SonarSearch",
           "description": "Project Sonar DNS Enumeration API",
@@ -4727,6 +4745,15 @@
           "https": true,
           "cors": "yes",
           "slug": "development-tyk"
+        },
+        {
+          "name": "URLpipe",
+          "link": "https://urlpipe.dev/docs",
+          "description": "Turn a URL into Markdown, screenshots, metadata or Lighthouse audits, rendered in real Chrome",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "no",
+          "slug": "development-urlpipe"
         },
         {
           "name": "Utilorax",
@@ -8614,6 +8641,15 @@
           "slug": "geocoding-mexico"
         },
         {
+          "name": "Moradas",
+          "link": "https://moradas.dev/docs",
+          "description": "Portuguese address autocomplete and 7-digit postal codes (CP7)",
+          "auth": "No",
+          "https": true,
+          "cors": "yes",
+          "slug": "geocoding-moradas"
+        },
+        {
           "name": "Nominatim",
           "link": "https://nominatim.org/release-docs/latest/api/Overview/",
           "description": "Provides worldwide forward / reverse geocoding",
@@ -9248,6 +9284,15 @@
           "https": true,
           "cors": "unknown",
           "slug": "government-fbi-wanted"
+        },
+        {
+          "name": "FDA Import Alert Screening",
+          "link": "https://aerviklabs.com/apis/fda-import-alerts/",
+          "description": "Screen firm names against FDA Import Alert Red, Yellow and Green Lists",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "unknown",
+          "slug": "government-fda-import-alert-screening"
         },
         {
           "name": "FEC",
@@ -11276,6 +11321,15 @@
           "https": true,
           "cors": "yes",
           "slug": "news-currents"
+        },
+        {
+          "name": "daily.dev",
+          "link": "https://docs.daily.dev/public-api/",
+          "description": "Developer news feeds, posts, bookmarks, tags and search from daily.dev",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "no",
+          "slug": "news-daily-dev"
         },
         {
           "name": "DataCube AI",
