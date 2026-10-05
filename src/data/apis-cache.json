@@ -1,8 +1,8 @@
 {
   "meta": {
-    "totalAPIs": 2018,
+    "totalAPIs": 2019,
     "totalCategories": 51,
-    "lastUpdated": "2026-10-04T09:31:07.652Z"
+    "lastUpdated": "2026-10-05T10:12:47.419Z"
   },
   "categories": [
     {
@@ -13844,6 +13844,15 @@
           "https": true,
           "cors": "unknown",
           "slug": "science-math-ocean-facts"
+        },
+        {
+          "name": "Oliver's mTOR Atlas",
+          "link": "https://mtor-atlas.org/api/",
+          "description": "Curated mTOR research: studies by evidence type, pathway claims, open questions",
+          "auth": "No",
+          "https": true,
+          "cors": "yes",
+          "slug": "science-math-oliver-s-mtor-atlas"
         },
         {
           "name": "Open Notify",
