@@ -1,8 +1,8 @@
 {
   "meta": {
-    "totalAPIs": 2415,
+    "totalAPIs": 2440,
     "totalCategories": 51,
-    "lastUpdated": "2026-11-18T11:22:29.863Z"
+    "lastUpdated": "2026-11-19T11:20:17.963Z"
   },
   "categories": [
     {
@@ -934,6 +934,15 @@
           "slug": "authentication-authorization-sawo-labs"
         },
         {
+          "name": "SignOps",
+          "link": "https://signops.dev/docs/",
+          "description": "Push notifications, login approval, passkeys, authenticator codes and email OTP on one API key",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "yes",
+          "slug": "authentication-authorization-signops"
+        },
+        {
           "name": "Stytch",
           "link": "https://stytch.com/",
           "description": "User infrastructure for modern applications",
@@ -1250,6 +1259,15 @@
           "https": true,
           "cors": "unknown",
           "slug": "books-google-books"
+        },
+        {
+          "name": "Greek Mythology",
+          "link": "https://acenes-of-sparta.pages.dev/api/",
+          "description": "Greek gods, monsters, heroes, places and Spartan customs, with ancient source citations",
+          "auth": "No",
+          "https": true,
+          "cors": "yes",
+          "slug": "books-greek-mythology"
         },
         {
           "name": "Greenlit Books",
@@ -3181,6 +3199,15 @@
           "slug": "cryptocurrency-mycryptosignal"
         },
         {
+          "name": "Nansen",
+          "link": "https://docs.nansen.ai/api/overview",
+          "description": "Labeled wallets, Smart Money flows, token holders and flows, wallet PnL, perps and Polymarket data",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "no",
+          "slug": "cryptocurrency-nansen"
+        },
+        {
           "name": "Nexchange",
           "link": "https://nexchange2.docs.apiary.io/",
           "description": "Automated cryptocurrency exchange service",
@@ -3289,6 +3316,15 @@
           "slug": "cryptocurrency-sololuck"
         },
         {
+          "name": "Swiftedge",
+          "link": "https://swiftedge.uk/developers",
+          "description": "Live order book walls, resting liquidity, funding, open interest and large trades for 9 markets",
+          "auth": "No",
+          "https": true,
+          "cors": "yes",
+          "slug": "cryptocurrency-swiftedge"
+        },
+        {
           "name": "Technical Analysis",
           "link": "https://technical-analysis-api.com",
           "description": "Cryptocurrency prices and technical analysis",
@@ -3305,6 +3341,15 @@
           "https": true,
           "cors": "yes",
           "slug": "cryptocurrency-the-coin-analysis"
+        },
+        {
+          "name": "The River",
+          "link": "https://app.theriver.markets/docs?s=public-apis",
+          "description": "Tokenized US stock prices across issuers on Base and Robinhood Chain, plus unsigned trade builds",
+          "auth": "No",
+          "https": true,
+          "cors": "yes",
+          "slug": "cryptocurrency-the-river"
         },
         {
           "name": "TronOrb",
@@ -3664,6 +3709,15 @@
           "slug": "currency-exchange-paralelo-bo"
         },
         {
+          "name": "Quotelinks Exchange Rates",
+          "link": "https://www.quotelinks.com/api/exchange-rates/",
+          "description": "ECB daily euro reference rates for 30 currencies since 1999, with conversion; Frankfurter v1 format",
+          "auth": "No",
+          "https": true,
+          "cors": "yes",
+          "slug": "currency-exchange-quotelinks-exchange-rates"
+        },
+        {
           "name": "Rate-API",
           "link": "https://rate-api.com/docs/api",
           "description": "Hourly exchange rates for 160+ currencies in JSON, XML or CSV with free plan 2,500 requests/month",
@@ -3864,6 +3918,15 @@
       "name": "Development",
       "slug": "development",
       "apis": [
+        {
+          "name": "The Networkery",
+          "link": "https://thenetworkery.com/api",
+          "description": "DNS, email authentication, TLS, BGP/RPKI, WHOIS and subnet checks with plain-English findings",
+          "auth": "No",
+          "https": true,
+          "cors": "yes",
+          "slug": "development-the-networkery"
+        },
         {
           "name": "Userstack",
           "link": "https://userstack.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo-Best-sellers",
@@ -4313,6 +4376,15 @@
           "https": true,
           "cors": "yes",
           "slug": "development-curlshot"
+        },
+        {
+          "name": "Dahono Free Proxy",
+          "link": "https://router.dahono.com/proxy/free",
+          "description": "Live-tested HTTP/HTTPS/SOCKS4/SOCKS5 proxies with country, protocol, latency and uptime filters",
+          "auth": "No",
+          "https": true,
+          "cors": "no",
+          "slug": "development-dahono-free-proxy"
         },
         {
           "name": "Databricks",
@@ -4927,6 +4999,15 @@
           "slug": "development-jstash"
         },
         {
+          "name": "Keirolabs",
+          "link": "https://docs.keirolabs.cloud",
+          "description": "Web search, Google results, page extraction to Markdown and cited answers for AI agents",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "yes",
+          "slug": "development-keirolabs"
+        },
+        {
           "name": "Keyvalue",
           "link": "https://keyvalue.immanuel.co/",
           "description": "Simple key-value storage REST API for quick prototyping",
@@ -5411,6 +5492,15 @@
           "https": true,
           "cors": "unknown",
           "slug": "development-qrcode-monkey"
+        },
+        {
+          "name": "QRdx",
+          "link": "https://qrdx.dev/docs/developers/image-api",
+          "description": "Styled QR codes as SVG, PNG or EPS from a URL, with gradients, frames and logos",
+          "auth": "No",
+          "https": true,
+          "cors": "yes",
+          "slug": "development-qrdx"
         },
         {
           "name": "QRX",
@@ -6431,6 +6521,15 @@
           "https": true,
           "cors": "no",
           "slug": "documents-productivity-emboss"
+        },
+        {
+          "name": "emissaoja",
+          "link": "https://emissaoja.com.br/docs/",
+          "description": "Issue Brazilian NFS-e service invoices via Emissor Nacional, no digital certificate; free sandbox",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "no",
+          "slug": "documents-productivity-emissaoja"
         },
         {
           "name": "FaturaPDF",
@@ -7894,6 +7993,15 @@
           "slug": "finance-arkleon"
         },
         {
+          "name": "AuraStream",
+          "link": "https://aurastream.unbiased-alpha.com/docs/",
+          "description": "Crypto, FX, macro, COT, SEC filings and alt data from 47 sources through one endpoint and one schema",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "no",
+          "slug": "finance-aurastream"
+        },
+        {
           "name": "Banco do Brasil",
           "link": "https://developers.bb.com.br/home",
           "description": "All Banco do Brasil financial transaction APIs",
@@ -7919,6 +8027,15 @@
           "https": true,
           "cors": "yes",
           "slug": "finance-banking-access-index"
+        },
+        {
+          "name": "Billionaire Tracker",
+          "link": "https://billionairetracker.us/developers",
+          "description": "Live net worth, rank and daily change for 3,400+ billionaires, free tier for the top 25",
+          "auth": "No",
+          "https": true,
+          "cors": "yes",
+          "slug": "finance-billionaire-tracker"
         },
         {
           "name": "Billplz",
@@ -8540,6 +8657,15 @@
           "https": true,
           "cors": "yes",
           "slug": "finance-quivad"
+        },
+        {
+          "name": "Quotelinks SEC Fundamentals",
+          "link": "https://www.quotelinks.com/api/sec-fundamentals/",
+          "description": "Standardized financial statements, profiles and filings for 21,000+ companies from SEC EDGAR",
+          "auth": "No",
+          "https": true,
+          "cors": "yes",
+          "slug": "finance-quotelinks-sec-fundamentals"
         },
         {
           "name": "Razorpay IFSC",
@@ -9733,6 +9859,15 @@
           "slug": "games-comics-lichess"
         },
         {
+          "name": "LLMPvP",
+          "link": "https://www.llmpvp.com/docs",
+          "description": "Ranked chess and Go arena for AI agents: move validation, clocks, matchmaking and Glicko-2 ratings",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "no",
+          "slug": "games-comics-llmpvp"
+        },
+        {
           "name": "Magic The Gathering",
           "link": "http://magicthegathering.io/",
           "description": "Magic The Gathering Game Information",
@@ -10208,6 +10343,15 @@
           "https": true,
           "cors": "unknown",
           "slug": "games-comics-when-is-next-mcu-film"
+        },
+        {
+          "name": "WOK",
+          "link": "https://woksteamapi.com/docs",
+          "description": "Steam inventories, item prices and player profiles for CS2, Rust, TF2 and Dota 2",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "no",
+          "slug": "games-comics-wok"
         },
         {
           "name": "Worth the Rip",
@@ -11437,6 +11581,15 @@
           "slug": "government-cpfhub"
         },
         {
+          "name": "Canada Service Map",
+          "link": "https://canadaservicemap.ca/developers",
+          "description": "Canadian public services, who handles them, official links and offices",
+          "auth": "No",
+          "https": true,
+          "cors": "yes",
+          "slug": "government-canada-service-map"
+        },
+        {
           "name": "Census.gov",
           "link": "https://www.census.gov/data/developers/data-sets.html",
           "description": "The US Census Bureau provides various APIs and data sets on demographics and businesses",
@@ -11570,6 +11723,15 @@
           "https": true,
           "cors": "no",
           "slug": "government-conversor-iae-cnae"
+        },
+        {
+          "name": "Crime Data",
+          "link": "https://crimedata.dev/docs",
+          "description": "US police-reported incidents for 12 cities: radius search, stats, GeoJSON, MCP",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "yes",
+          "slug": "government-crime-data"
         },
         {
           "name": "Data USA",
@@ -11867,6 +12029,15 @@
           "https": true,
           "cors": "yes",
           "slug": "government-localgov-jp"
+        },
+        {
+          "name": "Loupe",
+          "link": "https://loupe.legal/data#agents",
+          "description": "US case citations: does one exist, which case does it name, is the pin cite inside the opinion",
+          "auth": "No",
+          "https": true,
+          "cors": "yes",
+          "slug": "government-loupe"
         },
         {
           "name": "MORVS",
@@ -12427,6 +12598,15 @@
           "slug": "government-right-to-disconnect"
         },
         {
+          "name": "SchoolAPI",
+          "link": "https://schoolapi.org/docs",
+          "description": "Every US public, charter and private school and district, with search and enrollment history",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "no",
+          "slug": "government-schoolapi"
+        },
+        {
           "name": "ShelfWatch CPSC Recalls",
           "link": "https://stxai.app/developers",
           "description": "US CPSC product recall notices, filterable by product category; no key required",
@@ -12881,6 +13061,15 @@
           "https": true,
           "cors": "unknown",
           "slug": "health-medlineplus-genetics"
+        },
+        {
+          "name": "Meducate",
+          "link": "https://meducateapi.com/docs",
+          "description": "Structured MedlinePlus health topics with ICD-11 codes",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "yes",
+          "slug": "health-meducate"
         },
         {
           "name": "MyVaccination",
@@ -14956,6 +15145,15 @@
           "slug": "open-data-kaggle"
         },
         {
+          "name": "Kite",
+          "link": "https://platform.kite.sa/docs",
+          "description": "Saudi Arabia property listings for rent and sale, neighborhood prices, rental yield and projects",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "no",
+          "slug": "open-data-kite"
+        },
+        {
           "name": "Kvartiry-Phuket",
           "link": "https://kvartiry-phuket.com/otkrytye-dannye/#english",
           "description": "Russian-language Phuket real estate guides, asking prices, condo assessment rates, weather, beaches",
@@ -16436,6 +16634,15 @@
           "https": true,
           "cors": "yes",
           "slug": "science-math-botlero"
+        },
+        {
+          "name": "Cazimi",
+          "link": "https://cazimi.live/methodology#api",
+          "description": "Planetary retrograde stations, shadows and cazimi to the minute (JPL DE421)",
+          "auth": "No",
+          "https": true,
+          "cors": "yes",
+          "slug": "science-math-cazimi"
         },
         {
           "name": "Chempirical",
@@ -18487,6 +18694,15 @@
           "slug": "sports-fitness-apimedic"
         },
         {
+          "name": "AU Odds",
+          "link": "https://lucasfox.dev/odds/docs/",
+          "description": "Timestamped odds from 11 Australian bookmakers, with line history and devigged consensus",
+          "auth": "No",
+          "https": true,
+          "cors": "no",
+          "slug": "sports-fitness-au-odds"
+        },
+        {
           "name": "Ball Ranks",
           "link": "https://ballranks.com/developers",
           "description": "NFL and NBA fantasy rankings and player projections",
@@ -18795,7 +19011,7 @@
         {
           "name": "Odds-API",
           "link": "https://docs.odds-api.io",
-          "description": "Real-time sports betting odds from 415+ bookmakers across 34 sports via REST and WebSocket",
+          "description": "Real-time sports betting odds from 450+ bookmakers across 34 sports via REST and WebSocket",
           "auth": "apiKey",
           "https": true,
           "cors": "yes",
@@ -20660,6 +20876,15 @@
           "https": true,
           "cors": "yes",
           "slug": "transportation-vessel-class-finder"
+        },
+        {
+          "name": "VesselAPI",
+          "link": "https://vesselapi.com/docs",
+          "description": "Vessel positions, vessel search, port events, port lookup and EU MRV emissions by IMO or MMSI",
+          "auth": "apiKey",
+          "https": true,
+          "cors": "no",
+          "slug": "transportation-vesselapi"
         },
         {
           "name": "Windsock",
